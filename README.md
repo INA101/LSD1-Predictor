@@ -15,7 +15,7 @@ streamlit run app.py
 
 - `app.py` - Streamlit web application
 - `LGBMRegressor.pkl` - Trained machine learning model  
-- `LSD1_Model_Development.ipynb` - Jupyter notebook with model development
+- `LSD1.ipynb` - Jupyter notebook with model development
 - `requirements.txt` - Python dependencies
 
 ## 💡 Usage
